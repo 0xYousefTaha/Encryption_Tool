@@ -1,6 +1,6 @@
 #Refactoring Encrypption Game 
 
-from EncryptionGame import*
+from Encryption_Tool import*
 from unittest import skip
 
 print(logo)
